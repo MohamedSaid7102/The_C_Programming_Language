@@ -8969,7 +8969,7 @@ endobj
 <</Count 295/Kids[ 2323 0 R  2322 0 R ]/Type/Pages>>
 endobj
 2113 0 obj
-<</CreationDate(D:20020609122038Z)/ModDate(D:20251201035418+02'00)/Producer(Acrobat Web Capture 5.0)/Title(The C programming Language)>>
+<</CreationDate(D:20020609122038Z)/ModDate(D:20251201152417+02'00)/Producer(Acrobat Web Capture 5.0)/Title(The C programming Language)>>
 endobj
 2114 0 obj
 <</Length 2798/Subtype/XML/Type/Metadata>>stream
@@ -8981,7 +8981,7 @@ xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
 xmlns:xmp="http://ns.adobe.com/xap/1.0/"
 xmlns:dc="http://purl.org/dc/elements/1.1/">
 <pdf:Producer>Acrobat Web Capture 5.0</pdf:Producer>
-<xmp:ModifyDate>2025-12-01T03:54:18.413+02:00</xmp:ModifyDate>
+<xmp:ModifyDate>2025-12-01T15:24:17.148+02:00</xmp:ModifyDate>
 <xmp:CreateDate>2002-06-09T12:20:38Z</xmp:CreateDate>
 <xmp:MetadataDate>2002-06-09T12:24:42+03:00</xmp:MetadataDate>
 <dc:title>
@@ -10107,7 +10107,7 @@ endobj
 <</BM/Multiply/Type/ExtGState>>
 endobj
 2497 0 obj
-[ 2498 0 R 2501 0 R]
+[ 2498 0 R]
 endobj
 2498 0 obj
 <</AP<</N 2499 0 R >>/C[ 1 0.956863 0]/F 4/NM(fe4c7967-b75a-4a47-b444-3ce9b46fa31d)/QuadPoints[ 9.44804 586.603 326.224 586.603 9.44804 574.923 326.224 574.923]/Rect[ 9.44804 574.923 326.224 586.603]/Subtype/Highlight/T(moham)/Type/Annot>>
@@ -10119,18 +10119,6 @@ endstream
 endobj
 2500 0 obj
 <</BM/Multiply/Type/ExtGState>>
-endobj
-2501 0 obj
-<</AP<</N 2502 0 R >>/C[ 0.984314 0.188235 0.184314]/F 4/NM(cd45355a-f268-4e29-b648-4ca0cfe944ca)/QuadPoints[ 9.43564 261.839 366.765 261.839 9.43564 246.159 366.765 246.159]/Rect[ 8.49483 247.429 367.705 249.311]/Subtype/Underline/T(moham)/Type/Annot>>
-endobj
-2502 0 obj
-<</BBox[ 8.49483 247.429 367.705 249.311]/Filter/FlateDecode/FormType 1/Length 83/Matrix[ 1 0 0 1 0 0]/Resources<</ExtGState<</FXE1 2503 0 R >>>>/Subtype/Form/Type/XObject>>stream
-xú+‰“wãp5TH/Ê2–≥¥0164Q0–3¥∞0263¿"AÓ\Ü
-@!ìsπ,ıLåMÕLåL,ÙåÕrπåÕÃÙÃÕLa9\¡\Å\ ë±∂
-endstream
-endobj
-2503 0 obj
-<</LW 0.940806/Type/ExtGState>>
 endobj
 xref
 0 1532
@@ -12563,7 +12551,7 @@ xref
 0000845469 00000 n
 0000845522 00000 n
 0000845575 00000 n
-2457 47
+2457 44
 0000845608 00000 n
 0000845928 00000 n
 0000846289 00000 n
@@ -12605,14 +12593,11 @@ xref
 0000852839 00000 n
 0000853143 00000 n
 0000853196 00000 n
-0000853238 00000 n
-0000853499 00000 n
-0000853803 00000 n
-0000853856 00000 n
-0000854131 00000 n
-0000854428 00000 n
+0000853229 00000 n
+0000853490 00000 n
+0000853794 00000 n
 trailer
-<</Info 2113 0 R /Root 2349 0 R /Size 2504/ID[<D9C51CBDCCE4C739080C1070832C84D7><A10077EAC9643D5144B25BF8D4449B5B>]>>
+<</Info 2113 0 R /Root 2349 0 R /Size 2504/ID[<D9C51CBDCCE4C739080C1070832C84D7><69BD7429BC1F311A44B25BF8D4449B5B>]>>
 startxref
-854481
+853847
 %%EOF
