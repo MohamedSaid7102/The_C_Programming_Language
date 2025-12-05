@@ -30,7 +30,10 @@ int main() {
     // Print results
     for (i = 0; i < 25; ++i) {
         if (wordLengthCount[i] > 0) {
-            printf("%2d-letter words: %2d\n", i+1, wordLengthCount[i]);
+            printf("%2d-letter words: %2d ", i+1, wordLengthCount[i]);
+        
+        for(int j=0;j<wordLengthCount[i]; ++j) printf("%c", '*');
+        printf(". \n");
         }
     }
     
