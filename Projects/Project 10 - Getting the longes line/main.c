@@ -1,6 +1,9 @@
 #include <stdio.h>
 #define MAXLINE 1000/* Maximum input line length */
-
+/* Its good to mention that Global variables are commonly refered to as "Exteranl" variables
+   and local one are called "Automatic" variables, when you want to excess an external variable
+   that was declared in another file use the word "exten" before it, if it was declared in the
+   same file no need to do this.*/
 void copy(char from[], char to[]);
 
 int readline(char arr[], int limit);
