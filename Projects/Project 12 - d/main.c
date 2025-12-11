@@ -26,13 +26,19 @@ int atoi(char arr[]){
                     (10 + 2) * 10 = 120
                     (120 + 3) * 1 = 123
            I need to multiply each number by 10 in each iteration, and add the 
-           next number to it (Except the last number)
+           next number to it (Except the last numbe
+      4. Now we need to check for negative numbers
   */
-  int i,n;
+  int i,n, negativeNumber;
   n = 0;
-  for(i =0;arr[i] != '\0'; ++i)
+  for(i =0;arr[i] != '\0'; ++i){
+    if(i == 0 && arr[i] == '-') {
+      negativeNumber = 1;
+      continue;
+    }
     n = (n + (arr[i] - '0')) * 10;
-
+  }
+  if (negativeNumber) return (n/10) * -1;
   return n/10; /* n/10, to revert mulitplying by 10 for the last number in the previous 'for loop' */
 
 }
