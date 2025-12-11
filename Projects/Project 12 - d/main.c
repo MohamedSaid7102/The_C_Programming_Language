@@ -5,26 +5,36 @@ enum months {JAN=1, FAB, MARS, APRIL, MAY, JUN, JULY, AUG, SEP, OCT, NOV, DEC};
 
 int strlen(char arr[]);
 
-[]int atoi(char arr[]);
+int atoi(char arr[]);
 
 int main(){
 
-  char name[] = "Mohamed";
-  int numeric[sizeof(name)];
-
+  printf("%d ",atoi("-12487340"));
   return 0;
 }
 
 
 /* atoi: converts String to a list of numbers*/
-[]int atoi(char arr[]){
-  int i, c;
-  int numeric[sizeof(arr)];
+int atoi(char arr[]){
+  /*
+    to convert "123" to 123 
+    1. split each number in the array with a for loop 
+    2. convert each letter to a number by subtracting it from '0' ASCII
+    3. 123:
+      3.1. is 1000 + 20 + 3
+      3.2. which is 1 * 10 = 10
+                    (10 + 2) * 10 = 120
+                    (120 + 3) * 1 = 123
+           I need to multiply each number by 10 in each iteration, and add the 
+           next number to it (Except the last number)
+  */
+  int i,n;
+  n = 0;
+  for(i =0;arr[i] != '\0'; ++i)
+    n = (n + (arr[i] - '0')) * 10;
 
-  for (i = 0; (c=arr[i]); i++)
-    numeric[i] = c;
-  
-  return numeric;
+  return n/10; /* n/10, to revert mulitplying by 10 for the last number in the previous 'for loop' */
+
 }
 
 /* strlen: returns length of a string*/
