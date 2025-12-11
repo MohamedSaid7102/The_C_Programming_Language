@@ -36,7 +36,7 @@ int atoi(char arr[]){
       negativeNumber = 1;
       continue;
     }
-    n = (n + (arr[i] - '0')) * 10;
+    n = n*10 + (arr[i] - '0');
   }
   if (negativeNumber) return (n/10) * -1;
   return n/10; /* n/10, to revert mulitplying by 10 for the last number in the previous 'for loop' */
