@@ -7,9 +7,19 @@ int strlen(char arr[]);
 
 int atoi(char arr[]);
 
+unsigned long int nextRandomNumber = 1; /* Based on it will generate a new random number */ 
+
+
+int randi();
+
+void srand(unsigned int seed);
+
 int main(){
 
-  printf("%d ",atoi("-12487340"));
+  // printf("%d ",atoi("-12487340"));
+  srand(3);
+  printf("%d", randi());
+
   return 0;
 }
 
