@@ -39,28 +39,21 @@ void strcast(char h[], char t[]){
 /* deepSqueez:  deletes each character in s1 that matches any character in the string s2. */
 void deepSqueez(char arr1[], char arr2[]){
 
-  int i, j, k;
+  int i, j, k,found;
   i = j = k = 0;
   while(arr1[i] != '\0'){
+    found = 0;
     while(arr2[j] != '\0'){
-      if(arr1[i] == arr2[j])
-        // arr1[k++] = arr1[i+1];
-        arr1[i] = '\\'; /* Delimeter */
-        /* arr1           : m, o , h, m, d*/
-        /* arr1 Pointer   : *         */
-        /* arr2           : m, o, m*/
-        /* arr2 Pointer   :    *      */
-        /* newArray       : o, o , h, m, d*/
+      if(arr1[i] == arr2[j]){
+        found = 1;
+        break;
+      }
       j++;
     }
+    if(!found) arr1[k++] = arr1[i];
     i++;
     j = 0; /* reset j to start form the start */
   }
 
-  i = k =0;
-  while (arr1[i] != '\0')
-    if(arr1[i++] != '\\')  
-      arr1[k++] = arr1[i-1];
-  
   arr1[k] = '\0'; /* close the text */
 }
