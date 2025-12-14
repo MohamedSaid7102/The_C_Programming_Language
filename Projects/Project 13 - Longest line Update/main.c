@@ -8,31 +8,26 @@
 
 void copy(char from[], char to[]);
 
-int readline();
+int readline(char[]);
 
 void sqeez(char [], char);
 
 int main(){
 
-  /*int len, max;
+  int len, max;
   char arr[MAXLINE];
   char maxArray[MAXLINE];
   max = 0;
 
-  while((len = readline()) != 0){
+  while((len = readline(arr)) != 0){
     if(len > max) {
       max = len;
       copy(arr, maxArray);
     }
   }
 
-  printf("%d, %s", max,maxArray); */
+  printf("%d, %s", max,maxArray);
 
-  char name[] = "mohamed said ahmed shelf mo mo mo";
-
-  sqeez(name, 'm');
-
-  printf("%s",name);
 
   return 0;
 }
@@ -47,16 +42,19 @@ void sqeez(char s[], char c){
 }
 
 /* readline: read a line and store it in arr, then return the line size*/
-int readline() {
+int readline(char arr[]) {
   
   int c,i;
   i= 0;
 
-  while((c = getchar()) != EOF && c != '\0' && c != '\n')
-      ++i;
+  while((c = getchar()) != EOF && c != '\n')
+    arr[i++] = c;
 
   if(c == '\n')
-    ++i;
+    arr[i++] = '\n';
+  
+  /* Always put an end to the string*/
+  arr[i] = '\0';
 
   return i;
 }
