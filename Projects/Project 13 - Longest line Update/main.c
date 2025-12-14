@@ -10,7 +10,6 @@ void copy(char from[], char to[]);
 
 int readline(char[]);
 
-void sqeez(char [], char);
 
 int main(){
 
@@ -30,15 +29,6 @@ int main(){
 
 
   return 0;
-}
-
-/* squeez: removes all c from s*/
-void sqeez(char s[], char c){
-  int i,j;
-  for(i = j = 0; s[i] != '\0'; ++i)
-    if(s[i] != c)
-      s[j++] = s[i];
-  s[j] = '\0'; /* Close the string to print the correct line*/
 }
 
 /* readline: read a line and store it in arr, then return the line size*/
