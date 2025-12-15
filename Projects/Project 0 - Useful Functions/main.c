@@ -6,15 +6,39 @@ void strcast(char [], char[]);
 
 void deepSqueez(char [], char []);
 
+int binarySearch(int x, int[], int n);
+
 int main(){
 
-  char name1[100] = "Mohamed";
-  char name2[100] = "moMd";
-  deepSqueez(name1,name2);
+  int number [5]= {1,2,33,40,2};
 
-  printf("%s", name1);
+  printf("%d",binarySearch(33,number,5));
 
   return 0;
+}
+
+/* BinarySearch: a function that will search for number 'x' by splitting the search range in half 
+  each iteration, if the number to search is bigger we will search in right half of the range, else
+  we will search in the left half, NOTE: Assumes that arr is soter
+  Returns index if found and -1 if not*/
+
+int binarySearch(int x, int arr[], int n){
+  int low, mid, hight;
+  low = 0;
+  hight = n -1;
+
+  while (low<=hight)
+  {
+    mid = (low + hight)/2;
+    if(x>arr[mid]) 
+      low = mid + 1;
+    else if(x<arr[mid])
+      hight = mid -1;
+    else
+      return mid;
+  }
+  return -1;
+  
 }
 
 /* squeez: removes all c from s*/
