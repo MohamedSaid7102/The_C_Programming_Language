@@ -8,6 +8,7 @@ void deepSqueez(char [], char []);
 
 int binarySearch(int x, int[], int n);
 
+
 int main(){
 
   int number [5]= {1,2,33,40,2};
