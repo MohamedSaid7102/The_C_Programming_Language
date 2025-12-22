@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 void sqeez(char [], char);
 
@@ -8,14 +9,28 @@ void deepSqueez(char [], char []);
 
 int binarySearch(int x, int[], int n);
 
+void reverce(char[]);
+
 
 int main(){
 
-  int number [5]= {1,2,33,40,2};
-
-  printf("%d",binarySearch(33,number,5));
-
+  char name[10] = "Mohamed";
+  reverce(name);
+  printf("%s ",name);
   return 0;
+}
+
+
+/* reverce: reverce a string s, characters in place */
+void reverce(char s[]){
+
+  char temp;
+  for(int i =0, j=strlen(s)-1; i<j ; i++,j--){
+    temp = s[i];
+    s[i] = s[j];
+    s[j] = temp;
+  }
+
 }
 
 /* BinarySearch: a function that will search for number 'x' by splitting the search range in half 
