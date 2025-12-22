@@ -8950,7 +8950,7 @@ endobj
 <</Count 295/Kids[ 2323 0 R  2322 0 R ]/Type/Pages>>
 endobj
 2113 0 obj
-<</CreationDate(D:20020609122038Z)/ModDate(D:20251222024346+02'00)/Producer(Acrobat Web Capture 5.0)/Title(The C programming Language)>>
+<</CreationDate(D:20020609122038Z)/ModDate(D:20251222025057+02'00)/Producer(Acrobat Web Capture 5.0)/Title(The C programming Language)>>
 endobj
 2114 0 obj
 <</Length 2798/Subtype/XML/Type/Metadata>>stream
@@ -8962,7 +8962,7 @@ xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
 xmlns:xmp="http://ns.adobe.com/xap/1.0/"
 xmlns:dc="http://purl.org/dc/elements/1.1/">
 <pdf:Producer>Acrobat Web Capture 5.0</pdf:Producer>
-<xmp:ModifyDate>2025-12-22T02:43:46.753+02:00</xmp:ModifyDate>
+<xmp:ModifyDate>2025-12-22T02:50:57.124+02:00</xmp:ModifyDate>
 <xmp:CreateDate>2002-06-09T12:20:38Z</xmp:CreateDate>
 <xmp:MetadataDate>2002-06-09T12:24:42+03:00</xmp:MetadataDate>
 <dc:title>
@@ -11700,16 +11700,7 @@ endobj
 [ 3235 0 R 3238 0 R]
 endobj
 3235 0 obj
-<</AP<</N 3236 0 R >>/C[ 0.129412 0.627451 1]/F 4/NM(f069b7d8-8c10-440d-bcdd-eb206ae9739e)/QuadPoints[ 10.912 67.3667 125.752 67.3667 10.912 49.6067 125.752 49.6067]/Rect[ 10.912 49.6067 125.752 67.3667]/Subtype/Highlight/T(moham)/Type/Annot>>
-endobj
-3236 0 obj
-<</BBox[ 10.912 49.6067 125.752 67.3667]/Filter/FlateDecode/FormType 1/Length 96/Matrix[ 1 0 0 1 0 0]/Resources<</ExtGState<</FXE1 3237 0 R >>>>/Subtype/Form/Type/XObject>>stream
-xú+‰“wãp5TH/Ê2–34≤414R0–332715T0T(JÁ2T0 BôúÀeh†g	TcfÆglffÆ 02’37Eà‰¿EL,ıÃ "M0=
-\i\Å\ Ô&	
-endstream
-endobj
-3237 0 obj
-<</BM/Multiply/Type/ExtGState>>
+<</AP<</N 3357 0 R >>/C[ 1 1 1]/F 4/NM(f069b7d8-8c10-440d-bcdd-eb206ae9739e)/QuadPoints[ 10.912 67.3667 125.752 67.3667 10.912 49.6067 125.752 49.6067]/Rect[ 10.912 49.6067 125.752 67.3667]/Subtype/Highlight/T(moham)/Type/Annot>>
 endobj
 3238 0 obj
 <</AP<</N 3239 0 R >>/C[ 0.129412 0.627451 1]/F 4/NM(5b089751-b6a0-4936-b26d-daa0b177b0c2)/QuadPoints[ 10.28 137.568 32.218 137.568 10.28 128.118 32.218 128.118]/Rect[ 10.28 128.118 32.218 137.568]/Subtype/Highlight/T(moham)/Type/Annot>>
@@ -11737,311 +11728,392 @@ endobj
 <</BM/Multiply/Type/ExtGState>>
 endobj
 3244 0 obj
-<</AP<</N 3279 0 R >>/Contents(˛ˇ 1 . † R e v i s e † o n † s h e l l † s o r t † a n d † h o w † t o † m a k e † i t † i n † C , † t h e n † g o † w i t h † s e c t i o n † 3 . 6)/CreationDate(D:20251222024259+02'00)/DA(/Arial 12 Tf 0.7529412 0.3176471 0.3098039 RG 0 0 0 rg)/DS(text-align:left;font-size:12pt;font-weight:normal;font-family:Arial;color:#c0514f;text-decoration:none;font-stretch:normal;)/F 4/IT/FreeTextTypeWriter/M(D:20251222024259+02'00)/NM(03c542e8-3306-4037-bdac-c9ddab80d21d)/RC(˛ˇ < ? x m l   v e r s i o n = " 1 . 0 " ? > < b o d y   x m l n s = " h t t p : / / w w w . w 3 . o r g / 1 9 9 9 / x h t m l "   x m l n s : x f a = " h t t p : / / w w w . x f a . o r g / s c h e m a / x f a - d a t a / 1 . 0 / "   A P I V e r s i o n = " A c r o b a t : 1 1 . 0 . 0 "   s p e c = " 2 . 0 . 2 " > < p   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # 0 0 0 0 0 0 ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > 1 . < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > R e v i s e < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > o n < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > s h e l l < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > s o r t < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > a n d < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > h o w < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > t o < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > m a k e < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > i t < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > i n < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > C , < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > t h e n < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > g o < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > w i t h < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > s e c t i o n < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > 3 . 6 < / s p a n > < / s p a n > < / p > < / b o d y >)/Rect[ 266.51 423.744 491.548 453.344]/Subtype/FreeText/T(moham)/Type/Annot>>
-endobj
-3247 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3248 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3248 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3249 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3250 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3250 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3251 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3252 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3252 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3253 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3254 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3254 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3255 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3256 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3256 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3257 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3258 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3258 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3259 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3260 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3260 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3261 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3262 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3262 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3263 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3264 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3264 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3265 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3266 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3266 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3267 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3268 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3268 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3269 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3270 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3270 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3271 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3272 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3272 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3273 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3274 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3274 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3275 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3276 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3276 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3277 0 obj
-<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3278 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
-endobj
-3278 0 obj
-<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
-endobj
-3279 0 obj
-<</BBox[ 266.51 423.744 491.548 453.344]/Filter/FlateDecode/FormType 1/Length 506/Matrix[ 1 0 0 1 0 0]/Resources<</ExtGState<</FXE1 3281 0 R /FXE10 3290 0 R /FXE11 3291 0 R /FXE12 3292 0 R /FXE13 3293 0 R /FXE14 3294 0 R /FXE15 3295 0 R /FXE16 3296 0 R /FXE17 3297 0 R /FXE18 3298 0 R /FXE19 3299 0 R /FXE2 3282 0 R /FXE20 3300 0 R /FXE21 3301 0 R /FXE22 3302 0 R /FXE23 3303 0 R /FXE24 3304 0 R /FXE25 3305 0 R /FXE26 3306 0 R /FXE27 3307 0 R /FXE28 3308 0 R /FXE29 3309 0 R /FXE3 3283 0 R /FXE30 3310 0 R /FXE31 3311 0 R /FXE32 3312 0 R /FXE33 3313 0 R /FXE34 3314 0 R /FXE35 3315 0 R /FXE36 3316 0 R /FXE37 3317 0 R /FXE38 3318 0 R /FXE39 3319 0 R /FXE4 3284 0 R /FXE40 3320 0 R /FXE41 3321 0 R /FXE42 3322 0 R /FXE43 3323 0 R /FXE44 3324 0 R /FXE45 3325 0 R /FXE46 3326 0 R /FXE47 3327 0 R /FXE48 3328 0 R /FXE49 3329 0 R /FXE5 3285 0 R /FXE50 3330 0 R /FXE51 3331 0 R /FXE52 3332 0 R /FXE53 3333 0 R /FXE54 3334 0 R /FXE55 3335 0 R /FXE56 3336 0 R /FXE57 3337 0 R /FXE58 3338 0 R /FXE59 3339 0 R /FXE6 3286 0 R /FXE60 3340 0 R /FXE61 3341 0 R /FXE62 3342 0 R /FXE63 3343 0 R /FXE64 3344 0 R /FXE65 3345 0 R /FXE66 3346 0 R /FXE7 3287 0 R /FXE8 3288 0 R /FXE9 3289 0 R >>/Font<</FXF1 3280 0 R /FXF10 3263 0 R /FXF11 3265 0 R /FXF12 3267 0 R /FXF13 3269 0 R /FXF14 3271 0 R /FXF15 3273 0 R /FXF16 3275 0 R /FXF17 3277 0 R /FXF2 3247 0 R /FXF3 3249 0 R /FXF4 3251 0 R /FXF5 3253 0 R /FXF6 3255 0 R /FXF7 3257 0 R /FXF8 3259 0 R /FXF9 3261 0 R >>>>/Subtype/Form/Type/XObject>>stream
-xúùóOk‹0≈Ô˛:6¶ö—Ëﬂµir»-≈áBÈ!§ÓÓ“$K÷K˜ÎGjYΩ≈`åm¸Ûõ±ﬁ<øMüÔæﬂ:5õu≤Ωdec…qÎÅÕ…™9l¶/ÛTÆîççÑHûç*ì$5ÛÀøÛÛ◊∫;Le˜TèNı—wlXÃ¸€L?>1]˝úÔß€yzòﬁ˛s=∆çÖ+c\˘‡ö0l≤îlÇı~[˛Ó÷•ÅG^Æí¶A∏ÎâNW ≠—√¢˜Ø8c`ßƒ2÷é`µ ∑ö,x›.œœõ1v≤yêÌ{ö‰zr¯áΩÓ«ÜÏ0r™‰¡.áûbÃ∫\J"ﬁÂ«◊_3/µÖúã{ä1˜Rf £ï>Sº›ü2f]Z∆ 5ı‘b∂•eÀ®]û©=Ó0f[™<⁄ﬁ‹Ï1€Ro…_–ﬁó«?ÕhÚòkiÃ4jZl{í1◊“‰HÔÒÆ1-èôñ¶Äπß¯≤¿%5 ÇõYÏ—¿®~[C‹^‚Úx‚‚:ò@¡7◊≥,…Ä{qÀcæ%Ÿì h©œ|kª¥M'ä√]Ó%Æ &.)©ßŒbPÛ¶ÒÍ ∆-Wã=
-ÓÂ≠ Ê-WJçØ„”Ó∏m»`ﬁ
-ñÏhè{y+Äy+8r¨‰uy:Ó⁄âÄf.¶ÚÉÙ^Ë
-`Ë≤J_Õé¬¯yS‚
-endstream
+<</AP<</N 3524 0 R >>/Contents(˛ˇ 1 . † R e v i s e † o n † s h e l l † s o r t † a n d † h o w † t o † m a k e † i t † i n † C , † t h e n † g o † w i t h † s e c t i o n † 3 . 6 † + † b i n a r y † s e r r c h † E x c e r c i s e .)/CreationDate(D:20251222024259+02'00)/DA(/Arial 12 Tf 0.7529412 0.3176471 0.3098039 RG 0 0 0 rg)/DS(text-align:left;font-size:12pt;font-weight:normal;font-family:Arial;color:#c0514f;text-decoration:none;font-stretch:normal;)/F 4/IT/FreeTextTypeWriter/M(D:20251222024259+02'00)/NM(03c542e8-3306-4037-bdac-c9ddab80d21d)/RC(˛ˇ < ? x m l   v e r s i o n = " 1 . 0 " ? > < b o d y   x m l n s = " h t t p : / / w w w . w 3 . o r g / 1 9 9 9 / x h t m l "   x m l n s : x f a = " h t t p : / / w w w . x f a . o r g / s c h e m a / x f a - d a t a / 1 . 0 / "   A P I V e r s i o n = " A c r o b a t : 1 1 . 0 . 0 "   s p e c = " 2 . 0 . 2 " > < p   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # 0 0 0 0 0 0 ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > 1 . < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > R e v i s e < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > o n < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > s h e l l < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > s o r t < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > a n d < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > h o w < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > t o < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > m a k e < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > i t < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > i n < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > C , < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > t h e n < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > g o < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > w i t h < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > s e c t i o n < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > 3 . 6 < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > + < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > b i n a r y < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > s e r r c h < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : S e g o e   U I ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > † < / s p a n > < s p a n   s t y l e = " t e x t - a l i g n : l e f t ; f o n t - s i z e : 1 2 p t ; f o n t - w e i g h t : n o r m a l ; f o n t - f a m i l y : A r i a l ; c o l o r : # c 0 5 1 4 f ; t e x t - d e c o r a t i o n : n o n e ; f o n t - s t r e t c h : n o r m a l ; " > E x c e r c i s e . < / s p a n > < / s p a n > < / p > < / b o d y >)/Rect[ 266.701 409.55 490.13 452.95]/Subtype/FreeText/T(moham)/Type/Annot>>
 endobj
 3280 0 obj
 <</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Subtype/Type1/Type/Font>>
 endobj
-3281 0 obj
+3357 0 obj
+<</BBox[ 10.912 49.6067 125.752 67.3667]/Filter/FlateDecode/FormType 1/Length 80/Matrix[ 1 0 0 1 0 0]/Resources<</ExtGState<</FXE1 3358 0 R >>>>/Subtype/Form/Type/XObject>>stream
+xú+‰“wãp5TH/Ê2T ¡¢t √ !dr.ó°Åû•°ëÇôπû±ôôπP¿»Tœ‹!í1±‘33Äà@4a¿Ù(dp•qr r…C
+endstream
+endobj
+3358 0 obj
+<</BM/Multiply/Type/ExtGState>>
+endobj
+3484 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3485 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3485 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3486 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3487 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3487 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3488 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3489 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3489 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3490 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3491 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3491 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3492 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3493 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3493 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3494 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3495 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3495 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3496 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3497 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3497 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3498 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3499 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3499 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3500 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3501 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3501 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3502 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3503 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3503 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3504 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3505 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3505 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3506 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3507 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3507 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3508 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3509 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3509 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3510 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3511 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3511 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3512 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3513 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3513 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3514 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3515 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3515 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3516 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3517 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3517 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3518 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3519 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3519 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3520 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3521 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3521 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3522 0 obj
+<</BaseFont/SegoeUI/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 3523 0 R /LastChar 255/Subtype/TrueType/Type/Font/Widths[ 273 284 392 590 539 818 800 229 301 301 416 684 216 399 216 389 539 539 539 539 539 539 539 539 539 539 216 216 684 684 684 448 955 645 573 619 701 505 488 686 709 266 356 580 470 897 748 753 560 753 598 531 523 687 621 934 589 552 570 301 378 301 684 415 268 508 587 461 588 522 312 588 565 242 242 497 242 861 565 585 587 588 347 424 338 565 479 722 458 483 452 301 239 301 684 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 645 273 284 539 539 555 539 239 448 414 890 392 505 684 399 890 415 376 684 366 366 282 577 458 216 205 351 430 505 906 930 952 448 645 645 645 645 645 645 860 619 505 505 505 505 266 266 266 266 701 748 753 753 753 753 753 684 753 687 687 687 687 552 560 543 508 508 508 508 508 508 832 461 522 522 522 522 242 242 242 242 559 565 585 585 585 585 585 684 585 565 565 565 565 483 587 483]>>
+endobj
+3523 0 obj
+<</Ascent 1079/Descent -250/Flags 32/FontBBox[ -572 1298 1999 -411]/FontName/SegoeUI/ItalicAngle 0/StemV 0/Type/FontDescriptor>>
+endobj
+3524 0 obj
+<</BBox[ 266.701 409.55 490.13 452.95]/Filter/FlateDecode/FormType 1/Length 612/Matrix[ 1 0 0 1 0 0]/Resources<</ExtGState<</FXE1 3525 0 R /FXE10 3534 0 R /FXE11 3535 0 R /FXE12 3536 0 R /FXE13 3537 0 R /FXE14 3538 0 R /FXE15 3539 0 R /FXE16 3540 0 R /FXE17 3541 0 R /FXE18 3542 0 R /FXE19 3543 0 R /FXE2 3526 0 R /FXE20 3544 0 R /FXE21 3545 0 R /FXE22 3546 0 R /FXE23 3547 0 R /FXE24 3548 0 R /FXE25 3549 0 R /FXE26 3550 0 R /FXE27 3551 0 R /FXE28 3552 0 R /FXE29 3553 0 R /FXE3 3527 0 R /FXE30 3554 0 R /FXE31 3555 0 R /FXE32 3556 0 R /FXE33 3557 0 R /FXE34 3558 0 R /FXE35 3559 0 R /FXE36 3560 0 R /FXE37 3561 0 R /FXE38 3562 0 R /FXE39 3563 0 R /FXE4 3528 0 R /FXE40 3564 0 R /FXE41 3565 0 R /FXE42 3566 0 R /FXE43 3567 0 R /FXE44 3568 0 R /FXE45 3569 0 R /FXE46 3570 0 R /FXE47 3571 0 R /FXE48 3572 0 R /FXE49 3573 0 R /FXE5 3529 0 R /FXE50 3574 0 R /FXE51 3575 0 R /FXE52 3576 0 R /FXE53 3577 0 R /FXE54 3578 0 R /FXE55 3579 0 R /FXE56 3580 0 R /FXE57 3581 0 R /FXE58 3582 0 R /FXE59 3583 0 R /FXE6 3530 0 R /FXE60 3584 0 R /FXE61 3585 0 R /FXE62 3586 0 R /FXE63 3587 0 R /FXE64 3588 0 R /FXE65 3589 0 R /FXE66 3590 0 R /FXE67 3591 0 R /FXE68 3592 0 R /FXE69 3593 0 R /FXE7 3531 0 R /FXE70 3594 0 R /FXE71 3595 0 R /FXE72 3596 0 R /FXE73 3597 0 R /FXE74 3598 0 R /FXE75 3599 0 R /FXE76 3600 0 R /FXE77 3601 0 R /FXE78 3602 0 R /FXE79 3603 0 R /FXE8 3532 0 R /FXE80 3604 0 R /FXE81 3605 0 R /FXE82 3606 0 R /FXE9 3533 0 R >>/Font<</FXF1 3280 0 R /FXF10 3500 0 R /FXF11 3502 0 R /FXF12 3504 0 R /FXF13 3506 0 R /FXF14 3508 0 R /FXF15 3510 0 R /FXF16 3512 0 R /FXF17 3514 0 R /FXF18 3516 0 R /FXF19 3518 0 R /FXF2 3484 0 R /FXF20 3520 0 R /FXF21 3522 0 R /FXF3 3486 0 R /FXF4 3488 0 R /FXF5 3490 0 R /FXF6 3492 0 R /FXF7 3494 0 R /FXF8 3496 0 R /FXF9 3498 0 R >>>>/Subtype/Form/Type/XObject>>stream
+xúùòAã€0ÖÔ˛>viôJÚx$]∑ÕzkÒ°PzHS71›MX;4ÌøÔx›Ä@Ã[&$!OÚ<}…cÛˆÓÛÜCª_G±ô}Î®ÛQ8ÆO\Né€yﬂ‹çæ£ﬂâùoô•‹OØÔ◊À‹Ëe∑>ª¨_}Á[⁄·G€|yÂÈÊÎ°ŸÕ«ÊÒ∑√∏Qπﬁ∆œ‹∂¿2ÜMérŒh‹O„Øiv±ı]íhcwµ»ÇaÉFA#üé7b‹éı6.◊‚&´´¨ØÇqó√x_†3Üñ@!Ÿ–}%qÔ@lO}ÑGx9ÕÁÇÏ1rZ…∂-ñZ`¨≥∫î(	º≈€„˜åï;'€«Z^¨¥ÿÚ∆eæ {8]
+0÷X¨#Ï≥ÌŒJµºXc±é0ãÚ*Ô˘Tp±∆bVÆq{s-.÷X‹ÎGÒÌ}ÿ˛,N§+,÷”–cs∏Jb¡ÎøtÑHŒûx*˙J∞æ
+±≥s}-/(YQ(Ø7ò∑8Çî¨$‘#∑fYÇZV&Yè~,Ôª74,ÁÌ‹öb	®Xé)ØŒÅÂ=∆ráA…
+âÇ…5À‘≤<ı=<¡˚¢¢T,^W⁄»≠9Vãy|Ç/”˘PêA«íLΩuÜkíA…äÅ>√À∏;OÂoáäñ◊âç€\3≠àöñ
+èu±ü±IFMK{„◊T+¢™•ÅÒì¯uÅEMÀ+÷∏Œ5’ä†ji}tæ©øM«Ì¸ß`É≤ïôlKj≤ï^([æ£ÄÚ<ÔäÚJ`yÈÅÏÿ∆5·J`yÈÅ¸$>XÊÕÔ›8Ô¶eº˙wÎ/e˘!ú
+endstream
+endobj
+3525 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3282 0 obj
-<</CA 0/Font[ 3247 0 R  12]/Type/ExtGState>>
+3526 0 obj
+<</CA 0/Font[ 3484 0 R  12]/Type/ExtGState>>
 endobj
-3283 0 obj
+3527 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3284 0 obj
-<</CA 0/Font[ 3249 0 R  12]/Type/ExtGState>>
+3528 0 obj
+<</CA 0/Font[ 3486 0 R  12]/Type/ExtGState>>
 endobj
-3285 0 obj
+3529 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3286 0 obj
-<</CA 0/Font[ 3251 0 R  12]/Type/ExtGState>>
+3530 0 obj
+<</CA 0/Font[ 3488 0 R  12]/Type/ExtGState>>
 endobj
-3287 0 obj
+3531 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3288 0 obj
-<</CA 0/Font[ 3253 0 R  12]/Type/ExtGState>>
+3532 0 obj
+<</CA 0/Font[ 3490 0 R  12]/Type/ExtGState>>
 endobj
-3289 0 obj
+3533 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3290 0 obj
-<</CA 0/Font[ 3255 0 R  12]/Type/ExtGState>>
+3534 0 obj
+<</CA 0/Font[ 3492 0 R  12]/Type/ExtGState>>
 endobj
-3291 0 obj
+3535 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3292 0 obj
-<</CA 0/Font[ 3257 0 R  12]/Type/ExtGState>>
+3536 0 obj
+<</CA 0/Font[ 3494 0 R  12]/Type/ExtGState>>
 endobj
-3293 0 obj
+3537 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3294 0 obj
-<</CA 0/Font[ 3259 0 R  12]/Type/ExtGState>>
+3538 0 obj
+<</CA 0/Font[ 3496 0 R  12]/Type/ExtGState>>
 endobj
-3295 0 obj
+3539 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3296 0 obj
-<</CA 0/Font[ 3261 0 R  12]/Type/ExtGState>>
+3540 0 obj
+<</CA 0/Font[ 3498 0 R  12]/Type/ExtGState>>
 endobj
-3297 0 obj
+3541 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3298 0 obj
-<</CA 0/Font[ 3263 0 R  12]/Type/ExtGState>>
+3542 0 obj
+<</CA 0/Font[ 3500 0 R  12]/Type/ExtGState>>
 endobj
-3299 0 obj
+3543 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3300 0 obj
-<</CA 0/Font[ 3265 0 R  12]/Type/ExtGState>>
+3544 0 obj
+<</CA 0/Font[ 3502 0 R  12]/Type/ExtGState>>
 endobj
-3301 0 obj
+3545 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3302 0 obj
-<</CA 0/Font[ 3267 0 R  12]/Type/ExtGState>>
+3546 0 obj
+<</CA 0/Font[ 3504 0 R  12]/Type/ExtGState>>
 endobj
-3303 0 obj
+3547 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3304 0 obj
-<</CA 0/Font[ 3269 0 R  12]/Type/ExtGState>>
+3548 0 obj
+<</CA 0/Font[ 3506 0 R  12]/Type/ExtGState>>
 endobj
-3305 0 obj
+3549 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3306 0 obj
-<</CA 0/Font[ 3271 0 R  12]/Type/ExtGState>>
+3550 0 obj
+<</CA 0/Font[ 3508 0 R  12]/Type/ExtGState>>
 endobj
-3307 0 obj
+3551 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3308 0 obj
-<</CA 0/Font[ 3273 0 R  12]/Type/ExtGState>>
+3552 0 obj
+<</CA 0/Font[ 3510 0 R  12]/Type/ExtGState>>
 endobj
-3309 0 obj
+3553 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3310 0 obj
-<</CA 0/Font[ 3275 0 R  12]/Type/ExtGState>>
+3554 0 obj
+<</CA 0/Font[ 3512 0 R  12]/Type/ExtGState>>
 endobj
-3311 0 obj
+3555 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3312 0 obj
-<</CA 0/Font[ 3277 0 R  12]/Type/ExtGState>>
+3556 0 obj
+<</CA 0/Font[ 3514 0 R  12]/Type/ExtGState>>
 endobj
-3313 0 obj
+3557 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3314 0 obj
+3558 0 obj
+<</CA 0/Font[ 3516 0 R  12]/Type/ExtGState>>
+endobj
+3559 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3315 0 obj
-<</CA 0/Font[ 3247 0 R  12]/Type/ExtGState>>
+3560 0 obj
+<</CA 0/Font[ 3518 0 R  12]/Type/ExtGState>>
 endobj
-3316 0 obj
+3561 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3317 0 obj
-<</CA 0/Font[ 3249 0 R  12]/Type/ExtGState>>
+3562 0 obj
+<</CA 0/Font[ 3520 0 R  12]/Type/ExtGState>>
 endobj
-3318 0 obj
+3563 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3319 0 obj
-<</CA 0/Font[ 3251 0 R  12]/Type/ExtGState>>
+3564 0 obj
+<</CA 0/Font[ 3522 0 R  12]/Type/ExtGState>>
 endobj
-3320 0 obj
+3565 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3321 0 obj
-<</CA 0/Font[ 3253 0 R  12]/Type/ExtGState>>
-endobj
-3322 0 obj
+3566 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3323 0 obj
-<</CA 0/Font[ 3255 0 R  12]/Type/ExtGState>>
+3567 0 obj
+<</CA 0/Font[ 3484 0 R  12]/Type/ExtGState>>
 endobj
-3324 0 obj
+3568 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3325 0 obj
-<</CA 0/Font[ 3257 0 R  12]/Type/ExtGState>>
+3569 0 obj
+<</CA 0/Font[ 3486 0 R  12]/Type/ExtGState>>
 endobj
-3326 0 obj
+3570 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3327 0 obj
-<</CA 0/Font[ 3259 0 R  12]/Type/ExtGState>>
+3571 0 obj
+<</CA 0/Font[ 3488 0 R  12]/Type/ExtGState>>
 endobj
-3328 0 obj
+3572 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3329 0 obj
-<</CA 0/Font[ 3261 0 R  12]/Type/ExtGState>>
+3573 0 obj
+<</CA 0/Font[ 3490 0 R  12]/Type/ExtGState>>
 endobj
-3330 0 obj
+3574 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3331 0 obj
-<</CA 0/Font[ 3263 0 R  12]/Type/ExtGState>>
+3575 0 obj
+<</CA 0/Font[ 3492 0 R  12]/Type/ExtGState>>
 endobj
-3332 0 obj
+3576 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3333 0 obj
-<</CA 0/Font[ 3265 0 R  12]/Type/ExtGState>>
+3577 0 obj
+<</CA 0/Font[ 3494 0 R  12]/Type/ExtGState>>
 endobj
-3334 0 obj
+3578 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3335 0 obj
-<</CA 0/Font[ 3267 0 R  12]/Type/ExtGState>>
+3579 0 obj
+<</CA 0/Font[ 3496 0 R  12]/Type/ExtGState>>
 endobj
-3336 0 obj
+3580 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3337 0 obj
-<</CA 0/Font[ 3269 0 R  12]/Type/ExtGState>>
+3581 0 obj
+<</CA 0/Font[ 3498 0 R  12]/Type/ExtGState>>
 endobj
-3338 0 obj
+3582 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3339 0 obj
-<</CA 0/Font[ 3271 0 R  12]/Type/ExtGState>>
+3583 0 obj
+<</CA 0/Font[ 3500 0 R  12]/Type/ExtGState>>
 endobj
-3340 0 obj
+3584 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3341 0 obj
-<</CA 0/Font[ 3273 0 R  12]/Type/ExtGState>>
+3585 0 obj
+<</CA 0/Font[ 3502 0 R  12]/Type/ExtGState>>
 endobj
-3342 0 obj
+3586 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3343 0 obj
-<</CA 0/Font[ 3275 0 R  12]/Type/ExtGState>>
+3587 0 obj
+<</CA 0/Font[ 3504 0 R  12]/Type/ExtGState>>
 endobj
-3344 0 obj
+3588 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
-3345 0 obj
-<</CA 0/Font[ 3277 0 R  12]/Type/ExtGState>>
+3589 0 obj
+<</CA 0/Font[ 3506 0 R  12]/Type/ExtGState>>
 endobj
-3346 0 obj
+3590 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3591 0 obj
+<</CA 0/Font[ 3508 0 R  12]/Type/ExtGState>>
+endobj
+3592 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3593 0 obj
+<</CA 0/Font[ 3510 0 R  12]/Type/ExtGState>>
+endobj
+3594 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3595 0 obj
+<</CA 0/Font[ 3512 0 R  12]/Type/ExtGState>>
+endobj
+3596 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3597 0 obj
+<</CA 0/Font[ 3514 0 R  12]/Type/ExtGState>>
+endobj
+3598 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3599 0 obj
+<</CA 0/Font[ 3516 0 R  12]/Type/ExtGState>>
+endobj
+3600 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3601 0 obj
+<</CA 0/Font[ 3518 0 R  12]/Type/ExtGState>>
+endobj
+3602 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3603 0 obj
+<</CA 0/Font[ 3520 0 R  12]/Type/ExtGState>>
+endobj
+3604 0 obj
+<</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
+endobj
+3605 0 obj
+<</CA 0/Font[ 3522 0 R  12]/Type/ExtGState>>
+endobj
+3606 0 obj
 <</CA 0/Font[ 3280 0 R  12]/Type/ExtGState>>
 endobj
 xref
@@ -15043,7 +15115,7 @@ xref
 0000956129 00000 n
 0000956412 00000 n
 0000956729 00000 n
-3212 33
+3212 24
 0000956782 00000 n
 0000957833 00000 n
 0000957983 00000 n
@@ -15068,118 +15140,145 @@ xref
 0000961625 00000 n
 0000961678 00000 n
 0000961720 00000 n
-0000961985 00000 n
-0000962294 00000 n
-0000962347 00000 n
-0000962606 00000 n
-0000962911 00000 n
-0000962964 00000 n
-0000963223 00000 n
-0000963530 00000 n
-0000963583 00000 n
-3247 100
-0000974894 00000 n
-0000975945 00000 n
-0000976095 00000 n
-0000977146 00000 n
-0000977296 00000 n
-0000978347 00000 n
-0000978497 00000 n
-0000979548 00000 n
-0000979698 00000 n
-0000980749 00000 n
-0000980899 00000 n
-0000981950 00000 n
-0000982100 00000 n
-0000983151 00000 n
-0000983301 00000 n
-0000984352 00000 n
-0000984502 00000 n
-0000985553 00000 n
-0000985703 00000 n
-0000986754 00000 n
-0000986904 00000 n
-0000987955 00000 n
-0000988105 00000 n
-0000989156 00000 n
-0000989306 00000 n
-0000990357 00000 n
-0000990507 00000 n
-0000991558 00000 n
-0000991708 00000 n
-0000992759 00000 n
-0000992909 00000 n
-0000993960 00000 n
-0000994110 00000 n
-0000996134 00000 n
-0000996228 00000 n
-0000996294 00000 n
-0000996360 00000 n
-0000996426 00000 n
-0000996492 00000 n
-0000996558 00000 n
-0000996624 00000 n
-0000996690 00000 n
-0000996756 00000 n
-0000996822 00000 n
-0000996888 00000 n
-0000996954 00000 n
-0000997020 00000 n
-0000997086 00000 n
-0000997152 00000 n
-0000997218 00000 n
-0000997284 00000 n
-0000997350 00000 n
-0000997416 00000 n
-0000997482 00000 n
-0000997548 00000 n
-0000997614 00000 n
-0000997680 00000 n
-0000997746 00000 n
-0000997812 00000 n
-0000997878 00000 n
-0000997944 00000 n
-0000998010 00000 n
-0000998076 00000 n
-0000998142 00000 n
-0000998208 00000 n
-0000998274 00000 n
-0000998340 00000 n
-0000998406 00000 n
-0000998472 00000 n
-0000998538 00000 n
-0000998604 00000 n
-0000998670 00000 n
-0000998736 00000 n
-0000998802 00000 n
-0000998868 00000 n
-0000998934 00000 n
-0000999000 00000 n
-0000999066 00000 n
-0000999132 00000 n
-0000999198 00000 n
-0000999264 00000 n
-0000999330 00000 n
-0000999396 00000 n
-0000999462 00000 n
-0000999528 00000 n
-0000999594 00000 n
-0000999660 00000 n
-0000999726 00000 n
-0000999792 00000 n
-0000999858 00000 n
-0000999924 00000 n
-0000999990 00000 n
-0001000056 00000 n
-0001000122 00000 n
-0001000188 00000 n
-0001000254 00000 n
-0001000320 00000 n
-0001000386 00000 n
-0001000452 00000 n
-0001000518 00000 n
+3238 7
+0000961971 00000 n
+0000962230 00000 n
+0000962535 00000 n
+0000962588 00000 n
+0000962847 00000 n
+0000963154 00000 n
+0000963207 00000 n
+3280 1
+0000972328 00000 n
+3357 2
+0000972422 00000 n
+0000972715 00000 n
+3484 123
+0000972768 00000 n
+0000973819 00000 n
+0000973969 00000 n
+0000975020 00000 n
+0000975170 00000 n
+0000976221 00000 n
+0000976371 00000 n
+0000977422 00000 n
+0000977572 00000 n
+0000978623 00000 n
+0000978773 00000 n
+0000979824 00000 n
+0000979974 00000 n
+0000981025 00000 n
+0000981175 00000 n
+0000982226 00000 n
+0000982376 00000 n
+0000983427 00000 n
+0000983577 00000 n
+0000984628 00000 n
+0000984778 00000 n
+0000985829 00000 n
+0000985979 00000 n
+0000987030 00000 n
+0000987180 00000 n
+0000988231 00000 n
+0000988381 00000 n
+0000989432 00000 n
+0000989582 00000 n
+0000990633 00000 n
+0000990783 00000 n
+0000991834 00000 n
+0000991984 00000 n
+0000993035 00000 n
+0000993185 00000 n
+0000994236 00000 n
+0000994386 00000 n
+0000995437 00000 n
+0000995587 00000 n
+0000996638 00000 n
+0000996788 00000 n
+0000999236 00000 n
+0000999302 00000 n
+0000999368 00000 n
+0000999434 00000 n
+0000999500 00000 n
+0000999566 00000 n
+0000999632 00000 n
+0000999698 00000 n
+0000999764 00000 n
+0000999830 00000 n
+0000999896 00000 n
+0000999962 00000 n
+0001000028 00000 n
+0001000094 00000 n
+0001000160 00000 n
+0001000226 00000 n
+0001000292 00000 n
+0001000358 00000 n
+0001000424 00000 n
+0001000490 00000 n
+0001000556 00000 n
+0001000622 00000 n
+0001000688 00000 n
+0001000754 00000 n
+0001000820 00000 n
+0001000886 00000 n
+0001000952 00000 n
+0001001018 00000 n
+0001001084 00000 n
+0001001150 00000 n
+0001001216 00000 n
+0001001282 00000 n
+0001001348 00000 n
+0001001414 00000 n
+0001001480 00000 n
+0001001546 00000 n
+0001001612 00000 n
+0001001678 00000 n
+0001001744 00000 n
+0001001810 00000 n
+0001001876 00000 n
+0001001942 00000 n
+0001002008 00000 n
+0001002074 00000 n
+0001002140 00000 n
+0001002206 00000 n
+0001002272 00000 n
+0001002338 00000 n
+0001002404 00000 n
+0001002470 00000 n
+0001002536 00000 n
+0001002602 00000 n
+0001002668 00000 n
+0001002734 00000 n
+0001002800 00000 n
+0001002866 00000 n
+0001002932 00000 n
+0001002998 00000 n
+0001003064 00000 n
+0001003130 00000 n
+0001003196 00000 n
+0001003262 00000 n
+0001003328 00000 n
+0001003394 00000 n
+0001003460 00000 n
+0001003526 00000 n
+0001003592 00000 n
+0001003658 00000 n
+0001003724 00000 n
+0001003790 00000 n
+0001003856 00000 n
+0001003922 00000 n
+0001003988 00000 n
+0001004054 00000 n
+0001004120 00000 n
+0001004186 00000 n
+0001004252 00000 n
+0001004318 00000 n
+0001004384 00000 n
+0001004450 00000 n
+0001004516 00000 n
+0001004582 00000 n
 trailer
-<</Info 2113 0 R /Root 2349 0 R /Size 3355/ID[<D9C51CBDCCE4C739080C1070832C84D7><39AB4C99EF6A7EC590EF61FCA431FD7E>]>>
+<</Info 2113 0 R /Root 2349 0 R /Size 3607/ID[<D9C51CBDCCE4C739080C1070832C84D7><80EE0FDA7EEFF5CFA8DB4E7ACA38EDF0>]>>
 startxref
-1000584
+1004648
 %%EOF
