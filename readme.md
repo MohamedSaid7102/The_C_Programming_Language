@@ -2,6 +2,6 @@
 
 ### Stay in contact with me : ↖️
 
-### This readme will be deleted in 1H, so save it with you.
+### This readme will be deleted in 1H, so give me a call ASAP.
 
 
