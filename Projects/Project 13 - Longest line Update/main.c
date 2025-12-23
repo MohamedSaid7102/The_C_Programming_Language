@@ -10,7 +10,6 @@ void copy(char from[], char to[]);
 
 int readline(char[]);
 
-
 int main(){
 
   int len, max;
