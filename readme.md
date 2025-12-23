@@ -1,3 +1,4 @@
+
 # C Book Exercises Solutions
 
 Welcome to this repository! This project contains my personal solutions to all exercises from the **C programming book** I'm studying. The goal of this repo is to:
