@@ -4,6 +4,8 @@ void swapToTheEnd(int[], int);
 
 void printArray(int [],int);
 
+void badWayForInsertionSort(int [], int );
+
 void insertionSort(int [], int);
 
 int main(){
@@ -33,8 +35,22 @@ void printArray(int arr[], int size){
   printf(" ]\n");
 }
 
-/* Insertion sort function */
+/* Good way for insertion sort */
 void insertionSort(int arr[], int size){
+  if(size<2) return; /* no need to sort empty or one itme array */
+
+  int temp;
+  for(int i = 1; i<size; ++i){
+    for(int j =i; j>0 && (arr[j] < arr[j-1]);--j){
+        temp = arr[j-1];
+        arr[j-1] = arr[j];
+        arr[j] = temp;
+    }
+  }
+}
+
+/* Insertion sort function */
+void badWayForInsertionSort(int arr[], int size){
 
   if(size< 2) return; /* No nedd to sort empty of one item array */
 
