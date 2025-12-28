@@ -2,12 +2,14 @@
 
 int strsearch(char[], char[]);
 
+int strsearch2(char [], char []);
+
 int main(){
 
   char txt[10] = "Mohamed";
-  char query[10] = "ed";
+  char query[10] = "M";
   int result;
-  result = strsearch(txt,query);
+  result = strsearch2(txt,query);
   printf("%d ", result);
 
   return 0;
@@ -35,4 +37,14 @@ int strsearch(char txt[], char query[]){
     i++;
   }
   return -1; /* if it didn't return any thing till now, return -1 "The query is not found "*/
+}
+
+int strsearch2(char txt[], char query[]){
+  int i,j,k;
+
+  for(i =0;txt[i] != '\0';++i){
+    for(j =i, k=0; query[k] != '\0' && txt[j] == query[k]; ++j, ++k);
+    if(query[k] =='\0' && k >0) return i;
+  }
+  return -1;
 }
