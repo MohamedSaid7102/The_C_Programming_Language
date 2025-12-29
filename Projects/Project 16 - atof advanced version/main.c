@@ -57,7 +57,7 @@ double atof(char txt[]){
 
   /* txt[i] - '0' to convert the number back to int from string */
   for(;txt[i] >= '0' && txt[i] <='9';++i)
-    result = (result + (txt[i] - '0')) * 10;
+    result = result*10 + (txt[i] - '0');
 
   return sign*result;
 }
