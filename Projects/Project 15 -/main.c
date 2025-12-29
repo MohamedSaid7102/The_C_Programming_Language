@@ -4,10 +4,10 @@ int strsearch(char[], char[]);
 
 int strsearch2(char [], char []);
 
-int positionOfTheRightMostOcc(char [], char []);
 
 int main(){
 
+  int positionOfTheRightMostOcc(char [], char[]);
   char txt[20] = "Moh";
   char query[10] = "Mohamed";
   int result;
