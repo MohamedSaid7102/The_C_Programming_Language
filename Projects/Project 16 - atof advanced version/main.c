@@ -4,11 +4,16 @@ double atof(char []);
 
 int main(){
 
-  char txt[20] = "123";
 
-  double result = atof(txt);
+   // Test cases
+    printf("'123' = %f\n", atof("123"));           // Should be 123.000000
+    printf("'-456' = %f\n", atof("-456"));         // Should be -456.000000
+    printf("'+789' = %f\n", atof("+789"));         // Should be 789.000000
+    printf("'  42' = %f\n", atof("  42"));         // Should be 42.000000
+    printf("'0' = %f\n", atof("0"));               // Should be 0.000000
+    printf("'9' = %f\n", atof("9"));               // Should be 9.000000
+    printf("'' (empty) = %f\n", atof(""));         // Should be 0.000000
 
-  printf("%f", result);
 
   return 0;
 }
