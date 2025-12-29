@@ -36,10 +36,12 @@ int main(){
 */
 double atof(char txt[]){
 
-  int i;
+  int i, sign;
   double result;
+
   result = 0.0;
   i= 0;
+  sign = 1; /* Positive by default */
 
   /* check if the txt is empty return 0.0 as default return */
   if(txt[0] == '\0') return 0.0; 
@@ -47,12 +49,15 @@ double atof(char txt[]){
   /* Skipp white spaces*/
   for(i=0;txt[i] == ' ';++i); 
 
+  /* Check for the sign */
+  if(txt[i] == '-' || txt[i] == '+'){
+      sign = (txt[i] == '-')? -1 : 1;
+      ++i;
+  }
+
   /* txt[i] - '0' to convert the number back to int from string */
-  for(;txt[i] > '0' && txt[i] <'9';++i)
+  for(;txt[i] >= '0' && txt[i] <='9';++i)
     result = (result + (txt[i] - '0')) * 10;
 
-  // Divide by 10 to remote the last 0
-  result = result / 10;
-
-  return result;
+  return sign*result;
 }
