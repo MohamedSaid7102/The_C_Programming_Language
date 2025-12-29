@@ -15,7 +15,7 @@ int main(){
     printf("'9' = %f\n", myatof("9"));               // Should be 9.000000
     printf("'' (empty) = %f\n", myatof(""));         // Should be 0.000000
 
-    printf("%f",myatof("123e-2"));
+    printf("%f",myatof("123.23e2"));
 
   return 0;
 }
@@ -43,19 +43,18 @@ int main(){
 */
 double myatof(char txt[]){
 
-  int i, sign,scSign, scResult,scNum, e; /*sc: short for: scientific */
-  double result;
+  int i, sign,scSign; /*sc: short for: scientific */
+  double result, scNum, power;
 
-  result = scNum = scResult=  0.0;
+  result = scNum = power =  0.0;
   i= 0;
-  e = 10;
   sign = scSign = 1; /* Positive by default */
 
   /* check if the txt is empty return 0.0 as default return */
   if(txt[0] == '\0') return 0.0; 
 
   /* Skipp white spaces*/
-  for(i=0;txt[i] == ' ';++i); 
+  for(i=0;txt[i] == ' ' || txt[i] == '\t';++i); 
 
   /* Check for the sign */
   if(txt[i] == '-' || txt[i] == '+'){
@@ -63,14 +62,26 @@ double myatof(char txt[]){
       ++i;
   }
 
+  /* check for the number */
   /* txt[i] - '0' to convert the number back to int from string */
   for(;txt[i] >= '0' && txt[i] <='9';++i)
     result = result*10 + (txt[i] - '0');
 
-  /* TODO: check for floating point and update the result */
+  /* check for floating point and update the result */
+  if(txt[i] == '.') {
+    ++i;
+    /* check for the number after the . and updated the main result, and keep counting the fraction point to move it later with power */
+    for(;txt[i] >= '0' && txt[i] <='9';++i){
+      result = result*10 + (txt[i] - '0');
+      power *= 10;
+    }
 
-  if(txt[i] == 'e') {
-    e = 10;
+    /* Now the power is updated and result is not with fraction point, lets get it right */
+    result = result / power;
+  }
+
+  /* scientific notation */
+  if(txt[i] == 'e' || txt[i] == 'E') {
     ++i; /* Go to the next number */
 
     /* Check for the sign */
@@ -80,17 +91,13 @@ double myatof(char txt[]){
     }
 
     /* Check for the numbrs after the e*/
-    /* txt[i] - '0' to convert the number back to int from string */
     for(;txt[i] >= '0' && txt[i] <='9';++i)
       scNum= scNum*10 + (txt[i] - '0');
     
-    /* Get the result*/
-    scResult = 10 * scNum;
-
     if(scSign == 1){
-      result = result * pow(e , scNum);
+      result = result * pow(10 , scNum);
     } else {
-      result = result / pow(e , scNum);
+      result = result / pow(10 , scNum);
     }
 
   }
