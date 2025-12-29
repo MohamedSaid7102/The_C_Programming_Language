@@ -4,6 +4,7 @@ int strsearch(char[], char[]);
 
 int strsearch2(char [], char []);
 
+void greet(void);
 
 int main(){
 
@@ -17,6 +18,10 @@ int main(){
   return 0;
 }
 
+/* in new C if you are not going to take any arguments pass void*/
+void greet(void){
+  printf("Hello World\n");
+}
 
 int strsearch(char txt[], char query[]){
 
