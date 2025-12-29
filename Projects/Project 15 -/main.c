@@ -4,12 +4,14 @@ int strsearch(char[], char[]);
 
 int strsearch2(char [], char []);
 
+int positionOfTheRightMostOcc(char [], char []);
+
 int main(){
 
-  char txt[10] = "Mohamed";
-  char query[10] = "M";
+  char txt[20] = "Moh";
+  char query[10] = "Mohamed";
   int result;
-  result = strsearch2(txt,query);
+  result = positionOfTheRightMostOcc(txt,query);
   printf("%d ", result);
 
   return 0;
@@ -47,4 +49,18 @@ int strsearch2(char txt[], char query[]){
     if(query[k] =='\0' && k >0) return i;
   }
   return -1;
+}
+
+int positionOfTheRightMostOcc(char txt[], char query[]){
+  int i,j,k,lastOcc;
+
+  lastOcc = -1;
+
+  for(i =0;txt[i] != '\0';++i) { /* Whil you dind't get to the end of the string 'txt' */
+    for(j=i,k=0;(query[k] != '\0') && (txt[j] == query[k]);++j,++k); /* Keep making the logic and check later*/
+
+    if(k>0 && query[k] == '\0')  /* Previouslly we were returning, but now we will update lastOcc */
+      lastOcc = i;
+  }
+  return lastOcc;
 }
