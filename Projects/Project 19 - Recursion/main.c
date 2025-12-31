@@ -1,10 +1,14 @@
 #include <stdio.h>
 
-#define greet printf("Hello world \n")
-
 #define max(A,B) ((A) > (B)? (A) : (B))
 
-void countdown(int);
+// Debugg the expresion we have
+#define D_PRINT_INT(exp) printf(#exp " = %d \n", exp)
+#define D_PRINT_FLOAT(exp) printf(#exp " = %f \n", exp)
+#define D_PRINT_CHAR(exp) printf(#exp " = %c \n", exp)
+#define D_PRINT_G(exp, fmt) printf(#exp " = " fmt "\n", exp)
+
+
 
 int factorial(int );
 
@@ -14,8 +18,14 @@ void printd(int );
 
 int main(){
 
-  greet;
-  printf("%c ", max('a','b'));
+  int x = 5;
+  int y = 5;
+
+  D_PRINT_G(x*y,"%d");
+
+  
+  // greet;
+  // printf("%c ", max('a','b'));
 
   return 0;
 }
