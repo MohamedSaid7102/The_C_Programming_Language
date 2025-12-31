@@ -6,6 +6,6 @@ int getch(void){
 
 }
 
-void ungetch(int){
+void ungetch(int c){
 
 }
