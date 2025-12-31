@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-#define greet printf("Hello world")
+#define greet printf("Hello world \n")
+
+#define max(A,B) ((A) > (B)? (A) : (B))
 
 void countdown(int);
 
@@ -13,6 +15,7 @@ void printd(int );
 int main(){
 
   greet;
+  printf("%c ", max('a','b'));
 
   return 0;
 }
