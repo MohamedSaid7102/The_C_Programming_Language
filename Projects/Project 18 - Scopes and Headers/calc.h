@@ -1,3 +1,6 @@
+#ifndef CALC_H
+#define CALC_H
+
 #define NUMBER 0
 // Stack headers
 void push(double);
@@ -10,3 +13,5 @@ int getop(char[]);
 // getch
 int getch(void);
 void ungetch(int);
+
+#endif
