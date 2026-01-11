@@ -11,6 +11,8 @@ void strcpy(char*, char*);
 
 int strequal(char* , char* );
 
+int strcmp(char* , char* );
+
 int main(){
 
   // int a = 5, b = 10;
@@ -19,11 +21,12 @@ int main(){
   // printf("%p",&a);
 
   char name[] = "Said";
-  char name2[] = "Said";
+  char name2[] = "Saidm";
   int nameLeng = strlen2(name);
   strcpy(name,name2);
   int result = strequal(name,name2);
-  printf(result ? "Match" : "Missmatch");
+  printf(result ? "Match \n" : "Missmatch \n");
+  printf("%d ", strcmp(name,name2));
 
   
   return 0;
@@ -76,4 +79,17 @@ int strequal(char* s, char* t){
   while(*s++ == *t++) 
     if(*s == '\0') return 1;
   return 0;
+}
+
+/// @brief compare 2 strings together
+/// @param s 
+/// @param t 
+/// @return 
+int strcmp(char* s, char* t){
+  for( ; *s == *t; s++, t++){
+    if(*s == '\0') {
+      return 0; // equal
+    }
+  }
+  return *s - *t;
 }
