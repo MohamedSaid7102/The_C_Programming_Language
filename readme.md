@@ -26,3 +26,5 @@ These solutions reflect my own understanding and style. They're not always the o
 ## 🤝 Contributions
 
 This repo is mainly for personal learning, but feel free to explore or suggest improvements.
+
+Have a nice time
